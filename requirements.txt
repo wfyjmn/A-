@@ -41,6 +41,7 @@ isort==5.13.2
 Jinja2==3.1.6
 jiter==0.12.0
 jmespath==1.0.1
+joblib==1.5.3
 jsonpatch==1.33
 jsonpointer==3.0.0
 langchain==1.0.3
@@ -58,6 +59,7 @@ MarkupSafe==3.0.3
 mccabe==0.7.0
 more-itertools==10.8.0
 numpy==2.4.0
+nvidia-nccl-cu12==2.28.9
 openai==2.12.0
 opencv-python==4.8.0.74
 openpyxl==3.1.5
@@ -95,6 +97,8 @@ regex==2025.11.3
 requests==2.32.5
 requests-toolbelt==1.0.0
 s3transfer==0.14.0
+scikit-learn==1.8.0
+scipy==1.16.3
 setuptools==68.1.2
 six==1.17.0
 smmap==5.0.2
@@ -104,6 +108,7 @@ sqlacodegen==3.2.0
 SQLAlchemy==2.0.44
 starlette==0.49.3
 tenacity==9.1.2
+threadpoolctl==3.6.0
 tiktoken==0.12.0
 tomlkit==0.13.3
 tqdm==4.67.1
@@ -121,6 +126,7 @@ watchdog==6.0.0
 websockets==15.0.1
 wheel==0.42.0
 wsproto==1.3.2
+xgboost==3.1.2
 xlsxwriter==3.2.9
 xxhash==3.6.0
 zstandard==0.25.0
